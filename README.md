@@ -1,43 +1,8 @@
 # -VERIFICATION-OF-KIRCHHOFF-S-LAWS
-# AIM:
-To verify Kirchhoff’s voltage law and Kirchhoff’s current law both theoretically and practically for a given DC circuit.
-
-# APPARATUS REQUIRED:
-| SL.NO | APPARATUS                     | SPECIFICATION | QUANTITY |
-|------:|------------------------------|---------------|----------|
-| 1     | Regulated Power Supply (RPS) | 0–30 V        | 1        |
-| 2     | Voltmeter                    | 0–30 V MC     | 3        |
-| 3     | Ammeter                      | 0–10 mA MC    | 3        |
-| 4     | Resistors                    | 1 kΩ          | 3        |
-| 5     | Breadboard                   | —             | 1        |
-
-# THEORY:
-
-Kirchhoff’s Current Law (KCL) states that, ‘in an electric network, the algebraic sum of currents meeting at any junction is zero’. Since charges can never accumulate at any point, the charges flowing towards a junction must be equal to the charges flowing away from the junction.
-Kirchhoff’s Voltage Law (KVL) states that, ‘in an electric network, the algebraic sum of voltages in a closed path is zero’. Since potential at a point is a single value, the sum of all potential drops must be equal when traversing a closed path and coming back to the same point.
-
-# PROCEDURE:
-
-1.	Give connections as per the circuit diagram.
-2.	Switch ON the supply, vary the RPS (Regulated Power Supply) and set a particular input voltage.
-3.	Note down the readings of ammeters and voltmeters and tabulate them.
-4.	Vary the RPS for different input voltages and note down the readings of all the meters.
-5.	Reduce the RPS to its minimum value and switch OFF the supply.
-6.	Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.
-
-# RESULT:
-
-Thus Kirchoff’s Current Law and Kirchoff’s Voltage law are verified practically and theoretically.
-
-# MARKS SPLIT-UP:
-
-| Sl. No. | Description                    | Marks Allotted | Marks Obtained |
-|--------:|--------------------------------|----------------|----------------|
-| 1       | Experimental Setup/Connections | 5 marks        |                |
-| 2       | Observation / Readings         | 5 marks        |                |
-| 3       | Calculations / Results         | 5 marks        |                |
-| 4       | Viva                           | 5 marks        |                |
-| 5       | Record                         | 5 marks        |                |
-|        | **Total**                      | **25 marks**   |                |
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/1b123985-cd52-4d08-8348-1d173ce5cb5c" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/79ffea51-2ec4-461e-9a81-f65987e211fd" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/5427c2c0-df85-4281-82f6-78fdfbefcb6c" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/07a13061-8987-473a-ba99-41d160d13f10" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/fb3222c5-999f-483c-bf4a-185d92211280" />
 
 
